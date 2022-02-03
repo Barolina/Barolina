@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+like+software%2C+solution+architect+and+develop)](https://git.io/typing-svg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barolina&theme=github_dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barolina&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barolina&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barolina&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barolina&theme=github_dark) 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barolina)](https://github.com/anuraghazra/github-readme-stats)
 
