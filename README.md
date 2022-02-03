@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+like+software%2C+solution+architect+and+develop)](https://git.io/typing-svg)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/NGINX.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/PostgreSQL.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/nginx.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/postgresql.svg" />
 
 
 **Barolina/barolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+I'm created  this page  from:
+
+- [Simple Icons](https://simpleicons.org)
