@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+like+software%2C+solution+architect+and+develop)](https://git.io/typing-svg)
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barolina)](https://github.com/anuraghazra/github-readme-stats)
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/nginx.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/postgresql.svg" />
 
 
