@@ -7,7 +7,6 @@
 
 **Barolina/barolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-file:///C:/Users/user/AppData/Local/Temp/python.svg
 
 
 Here are some ideas to get you started:
@@ -24,3 +23,5 @@ Here are some ideas to get you started:
 I'm created  this page  from:
 
 - [Simple Icons](https://simpleicons.org)
+- [Fancy Letters](https://lingojam.com)
+- [Readme Typing SVG](https://readme-typing-svg.herokuapp.com)
