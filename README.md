@@ -7,9 +7,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barolina&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barolina&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barolina&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barolina&theme=github_dark) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barolina)](https://github.com/anuraghazra/github-readme-stats)
+____
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/nginx.svg" /><img height="32" width="32" src="https://simpleicons.org/icons/postgresql.svg" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+____
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barolina)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Barolina/barolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +36,4 @@ I'm created  this page  from:
 - [Simple Icons](https://simpleicons.org)
 - [Fancy Letters](https://lingojam.com)
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com)
+- [Article](https://habr.com/ru/post/649363/)
